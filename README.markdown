@@ -11,7 +11,7 @@ I wrote DejalButtonCell for my own use, but I'm making it available for the bene
 
 If you find it useful, a donation via PayPal (or something from my Amazon.com Wish List) would be very much appreciated. Appropriate links can be found on the Dejal Developer page:
 
-<http://www.dejal.com/developer>
+<https://www.dejal.com/developer>
 
 
 Latest Version
@@ -47,7 +47,7 @@ Include the DejalButtonCell.h and DejalButtonCell.m files in your project.
 License and Warranty
 --------------------
 
-This code uses the standard BSD license.  See the included License.txt file.  Please also see the [Dejal Open Source License](http://www.dejal.com/developer/license/) web page for more information.
+This code uses the standard BSD license.  See the included License.txt file.  Please also see the [Dejal Open Source License](https://www.dejal.com/developer/license/) web page for more information.
 
 You can use this code at no cost, with attribution.  A non-attribution license is also available, for a fee.
 
@@ -55,9 +55,9 @@ You're welcome to use it in commercial, closed-source, open source, free or any 
 
 The placement and format of the credit is up to you, but I prefer the credit to be in the software's "About" window or view, if any. Alternatively, you could put the credit in the software's documentation, or on the web page for the product. The suggested format for the attribution is:
 
-> Includes DejalButtonCell code from [Dejal](http://www.dejal.com/developer/).
+> Includes DejalButtonCell code from [Dejal](https://www.dejal.com/developer/).
 
-Where possible, please link the text "Dejal" to the Dejal Developer web page, or include the page's URL: <http://www.dejal.com/developer/>.
+Where possible, please link the text "Dejal" to the Dejal Developer web page, or include the page's URL: <https://www.dejal.com/developer/>.
 
 This code comes with no warranty of any kind.  I hope it'll be useful to you, but I make no guarantees regarding its functionality or otherwise.
 
@@ -77,8 +77,8 @@ David Sinclair
 Dejal Systems, LLC
 
 
-Contact: <http://www.dejal.com/contact/?subject=Dejal+View&ref=dejalbuttoncell>  
-More open source projects: <http://www.dejal.com/developer>  
-Open source announcements on Twitter: <http://twitter.com/dejalopen>  
-General Dejal news on Twitter: <http://twitter.com/dejal>
+Contact: <https://www.dejal.com/contact/?subject=DejalButtonCell&ref=dejalbuttoncell>  
+More open source projects: <https://www.dejal.com/developer>  
+Open source announcements on Twitter: <https://twitter.com/dejalopen>  
+General Dejal news on Twitter: <https://twitter.com/dejal>
 
