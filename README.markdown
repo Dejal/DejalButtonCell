@@ -1,17 +1,7 @@
 DejalButtonCell
 ===============
 
-DejalButtonCell simple override to return the full frame instead of the actual title frame, to avoid drawing issues in a sidebar.
-
-
-Donations
----------
-
-I wrote DejalButtonCell for my own use, but I'm making it available for the benefit of the macOS developer community.
-
-If you find it useful, a donation via PayPal (or something from my Amazon.com Wish List) would be very much appreciated. Appropriate links can be found on the Dejal Developer page:
-
-<https://www.dejal.com/developer>
+DejalButtonCell is a simple override to return the full frame instead of the actual title frame, to avoid drawing issues in a sidebar.
 
 
 Latest Version
@@ -28,14 +18,6 @@ Requirements
 - Xcode 4 or later.
 - Should work with all versions of macOS.
 - Should work with or without ARC.
-
-
-Features
---------
-
-- Adds a viewDelegate property to the view.
-- If set, a `-view:hitTest:withEvent:hitView:` method is invoked on the delegate.
-- That delegate method can return the passed view to act normally, or return nil to ignore the tap.
 
 
 Usage
